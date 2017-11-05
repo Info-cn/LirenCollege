@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "体制外的当代中国教育实验之二"
-subtitle: 立人大学 学生是来一起办大学的
+title: "立人大学 学生是来一起办大学的"
+subtitle: 体制外的当代中国教育实验之二
 date: 2012-07-10 14:30:00
 author: "邝新华"
 header-img: "img/page-bg.jpg"
