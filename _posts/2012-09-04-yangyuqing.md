@@ -7,7 +7,6 @@ author: "杨玉擎"
 header-img: "img/page26-bg.jpg"
 tags:
     - 立大二期
-    - 记忆
     - 文集
 ---
 
