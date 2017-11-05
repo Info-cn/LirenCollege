@@ -8,6 +8,7 @@ header-img: "img/page26-bg.jpg"
 tags:
     - 立大二期
     - 记忆
+    - 文集
 ---
 
 <http://www.aisixiang.com/data/57112.html>
