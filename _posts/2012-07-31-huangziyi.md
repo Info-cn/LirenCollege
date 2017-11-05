@@ -91,4 +91,4 @@ tags:
 
 **永远年轻，永远热泪盈眶。**
 
-![](/img/huangziyi.jpg)
+![](https://lirencollege.xyz/img/huangziyi.jpg)
