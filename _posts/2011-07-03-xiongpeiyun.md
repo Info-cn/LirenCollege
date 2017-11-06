@@ -4,7 +4,7 @@ title:      "我的学思历程 熊培云"
 subtitle:   
 date:       2011-07-13
 author:     "熊培云"
-header-img: "img/home-bg.jpg"
+header-img: "img/page-bg.jpg"
 tags:
     - 立大一期
     - 学思历程
