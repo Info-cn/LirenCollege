@@ -60,7 +60,7 @@ layout: default
 
 				{{ content }}
 
-                <hr>
+                <hr style="visibility: hidden;">
 
                 <ul class="pager">
                     {% if page.previous.url %}
@@ -81,22 +81,6 @@ layout: default
                     {% endif %}
                 </ul>
 
-                <!-- <div id="gitalk-container"></div>
-                    <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-                    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-                    <script type="text/javascript">
-                      var gitalk = new Gitalk({
-                        clientID: 'f79a9bce32cb0b813a2c',
-                        clientSecret: '0b7cc6a4a27443c7059192598697c428161588b5',
-                        repo: 'LirenCollege.github.io',
-                        owner: 'LirenCollege',
-                        admin: ['tsai1993', 'cmmei'],
-                        distractionFreeMode: true
-                      })
-                      gitalk.render('gitalk-container')
-                    </script> -->
-
-
     <!-- Side Catalog Container -->
         {% if page.catalog %}
             <div class="
@@ -113,6 +97,7 @@ layout: default
                 </div>
             </div>
         {% endif %}
+        </div>
 
     <!-- Sidebar Container -->
             <div class="
@@ -148,10 +133,9 @@ layout: default
                 </ul>
                 {% endif %}
             </div>
-        </div>
+
     </div>
 </article>
-
 
 <!-- async load function -->
 <script>
