@@ -8,7 +8,7 @@ header-img: "img/home-bg.JPG"
 tags:
     - 立大一期
     - 文集
-    - 报导
+    - 报道
 ---
 
 载于:《南方周末》总第 1432 期

@@ -6,7 +6,7 @@ date: 2012-07-10 14:30:00
 author: "邝新华"
 header-img: "img/page-bg.jpg"
 tags:
- - 报导
+ - 报道
  - 立大二期
 ---
 
