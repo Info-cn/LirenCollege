@@ -4,7 +4,7 @@ title:      "大学在人间"
 subtitle:   
 date:       2011-08-18 10:00:00
 author:     "方可成 李惠普"
-header-img: "img/home-bg.jpg"
+header-img: "img/home-bg.JPG"
 tags:
     - 立大一期
     - 文集
