@@ -13,10 +13,12 @@
     position: fixed;
     bottom: 200px;
     right: 0;
-    background-color: #DDD;
-    color: #555;
+    background-color: rgb(238, 238, 246);
+    opacity: 0.4;
+    color: #0c0b0b;
     text-align: center;
     font-size: 30px;
+    text-decoration-color: rgba(0,0,0,0.5);
     text-decoration: none;
 }
 #back2Top:hover {
