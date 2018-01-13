@@ -1,12 +1,10 @@
 [立大博客](https://lirencollege.github.io) 主要发布立大四年来可读性较强、编辑校对比较好的文章，追求「精」而非「全」；[立大文集存档](https://lrc.gitbooks.io/lrc/content/) 重在收集有关立大的文字资料，追求「全」而非「精」。
 
-文章庞杂，各篇目质量参差不齐，亟需编辑进行校对处理。非常欢迎您参与进来，请到 [讨论区](https://github.com/LirenCollege/LirenCollege.github.io/issues) 进行讨论参与。也可以直接发送邮件到<a href="mailto:rolling404@gmail.com"> rolling404@gmail.com </a>。
+文章庞杂，各篇目质量参差不齐，亟需编辑进行校对处理。非常欢迎您参与进来，请到 [讨论区](http://bbs.lirencollege.xyz/) 进行讨论参与。也可以直接发送邮件到<a href="mailto:rolling404@gmail.com"> rolling404@gmail.com </a>。
 
 ## 如何参与
 
 目前最亟需的工作是对已经收集到的文章进行选取、编辑和整理，然后发布在 [立大博客](https://lirencollege.github.io/) 上。文章可以从 [LRC GitBooks](https://lrc.gitbooks.io/lrc/content/) 或者 [LRC GitHub](https://github.com/LirenCollege/LRC) 上找到。
-
-为了避免重复工作，请注意查看已经精较过的 [文章列表](reviewed-list.md)。
 
 ### 文字编辑&校对要求
 
