@@ -17,7 +17,7 @@ tag:
 >
 > 整理：彭圣傲
 
-![北京奥运会会徽](https://raw.githubusercontent.com/LirenCollege/LirenCollege.github.io/master/img/Beijing2008SummerOlympics.svg)
+![北京奥运会会徽](https://raw.githubusercontent.com/LirenCollege/LirenCollege.github.io/master/img/Beijing2008SummerOlympics.jpg)
 
 这个印我觉得非常漂亮，它是内涵非常深刻的一枚中国印。这个印上刻了一个简洁、生动的象形文字，是「文」也是「京」，咱们通常把它理解为「京」，「北京」的「京」，这个「京」字呢，从形象上看像一个张开双臂载歌载舞的「人」，它的意义之一就是「人文」，这里就说到「人」和「文」是什么关系，「人」就是「文」，文就是「人」，在我们古汉字里面，「人」、「文」是同一个字，「人」、「文」的意义是统一的，一致的，「人文一也 」。「文」就是文化，文化就是「人」。
 
